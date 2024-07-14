@@ -10,4 +10,5 @@ the user relative features (the features are user_id, yelping_since, fans, user_
 
 # 研究方法
 ![image](https://github.com/user-attachments/assets/28d1a6c9-3844-4cbf-9549-f51dd5945a49)
+
 本代码不包括数据可视化tableau实现部分
