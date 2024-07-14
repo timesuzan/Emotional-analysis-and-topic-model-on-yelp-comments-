@@ -5,6 +5,11 @@ Yelp open source 2021：https://link.zhihu.com/?target=https%3A//www.yelp.com/da
 被研究的数据字段
 the review relative features (the features are review_id, user_id, business_id, review_star, date, text, useful, funny, cool), the business relative features (the features are business_id, business_star, review_count, is_open, attributes, categories), 
 the user relative features (the features are user_id, yelping_since, fans, user_stars)
+
+<div>
+  <img src="https://github.com/user-attachments/assets/8388b8e9-0901-4884-b14c-cf69f1274c51" width="500" height="300" alt="描述文字">
+</div>
+
 ![image](https://github.com/user-attachments/assets/8388b8e9-0901-4884-b14c-cf69f1274c51)
 ![image](https://github.com/user-attachments/assets/0a4390df-d519-476a-9e02-5b49f8c80c37)
 
