@@ -8,10 +8,9 @@ the user relative features (the features are user_id, yelping_since, fans, user_
 
 <div>
   <img src="https://github.com/user-attachments/assets/8388b8e9-0901-4884-b14c-cf69f1274c51" width="500" height="300" alt="描述文字">
+  <img src="https://github.com/user-attachments/assets/0a4390df-d519-476a-9e02-5b49f8c80c37" width="500" height="200" alt="描述文字">
 </div>
 
-![image](https://github.com/user-attachments/assets/8388b8e9-0901-4884-b14c-cf69f1274c51)
-![image](https://github.com/user-attachments/assets/0a4390df-d519-476a-9e02-5b49f8c80c37)
 
 # 研究方法
 ![image](https://github.com/user-attachments/assets/28d1a6c9-3844-4cbf-9549-f51dd5945a49)
